@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Ashish!</h1>
-<h3 align="center">I'm an Android Guy - Coder by day, more code by night. <br>I have 3.5+ years of professional experience - and a bunch of side projects.</h3>
+<h3 align="center">Not a 10X developer but ~9¾X developer. <br>I have 4+ years of professional experience - and a bunch of side projects.</h3>
 
 ## 🔥 Skills
 
@@ -19,7 +19,7 @@
 
 ## 🛠 What I am currently up to
 
-- **🥷A stealth-mode startup**: At office - building tech - android and little bit of backend - using Compose, Kotlin, NestJs.
+- **🥷Working at a startup**: Remote - building tech - android - using Compose, Kotlin and magic.
 - **🤿Exploring depth**: Digging deeper into Compose, Android SDK and Flutter.
 - **🧭Expanding**: Learning new stacks - KMM, Kobweb, and more.
 - **🚀Hobby Stuff**: Working on multiple hobby projects, buying a lot of domains.
@@ -30,10 +30,14 @@
   - Worked on fintech app with over 10M+ downloads.
   - Worked on various health & fitness and transportation related projects.
 
+- **A few stealth-mode startups**:
+  - created apps for gig workers
+  - using Jetpack Compose and developed backend services with NestJs and MongoDB
+
 ## 👀 Looking for Opportunities
 
-- I'm actively looking for roles as Android Developer, as my work here is almost done.
-- Preferabley at early-stage startups. I'm open to taking up additional challanges as well.
+- If you have some crazy / mind-blowing ideas, I can help you build it.
+- Preferably at early-stage startups. Looking for challanges🦾.
 
 ## 📫 How to Reach Me
 
