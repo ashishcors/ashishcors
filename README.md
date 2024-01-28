@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Ashish!</h1>
-<h3 align="center">A ~~10X~~ 9¾X developer, with have 4+ years of professional experience.</h3>
+<h3 align="center">A <s>10x</s> 9¾x developer, with 4+ years of professional experience.</h3>
 
 ## 🔥 Skills
 
